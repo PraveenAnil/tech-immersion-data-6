@@ -1,4 +1,4 @@
-# Tech-Immersion-Data Experience 6 - 
+# Delivering the Modern Data Warehouse with Azure SQL Data Warehouse, Azure Databricks, and Power BI
 
 ## Please perform the following manual steps before starting with the lab:
 
