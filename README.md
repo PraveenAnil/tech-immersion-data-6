@@ -3,6 +3,9 @@
 ## Please perform the following manual steps before starting with the lab:
 
 Key Vault-backed secrets and scopes should be enabled
+   - Launch Azure Portal and login with the credentials in the Environment Details page
+   - Navigate to the Resource group you have access to
+   - Open Azure Databricks
    - Launch Azure Databricks Workspace
    - Go to https://<your_azure_databricks_url>#secrets/createScope (for example, https://westus.azuredatabricks.net#secrets/createScope).
    - Secret scope name: **key-vault-secrets**
